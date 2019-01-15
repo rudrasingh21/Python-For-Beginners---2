@@ -41,3 +41,14 @@ print(type(enumerate(A)))
 
 for index , value in enumerate(A):
     print("Endex Number: " + str(index) + " Value is: " + str(value)+ '\n')
+
+    
+ '''
+ Endex Number: 0 Value is: once
+
+Endex Number: 1 Value is: upon
+
+Endex Number: 2 Value is: a
+
+Endex Number: 3 Value is: time
+'''
